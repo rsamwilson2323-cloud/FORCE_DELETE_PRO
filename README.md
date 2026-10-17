@@ -1,4 +1,4 @@
-# 🛡️ FORCE DELETE PRO
+# 🗑️ FORCE DELETE PRO
 
 An advanced Windows file and folder removal utility built with **Windows Batch, PowerShell, and native Windows utilities**. FORCE DELETE PRO diagnoses why deletion fails—checking attributes, ownership, permissions, running processes, and Windows services—instead of repeatedly running the same failing command.
 
